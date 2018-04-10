@@ -6,7 +6,7 @@ var db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
 	password : '',
-    database: 'intermediation',
+    database: 'postgresql-parallel-44685',
     multipleStatements: true
 })
  
